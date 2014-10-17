@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yes:home|Door43 (yes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yes|d43-yes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yes/archive/master.zip|d43-yes.zip]]
+
+**Recent Changes**
+{{changes>ns = yes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yes|Ethnologue data]]
+
